@@ -1,6 +1,5 @@
 # Music_App
 
-![Musicax Logo](path_to_logo_image)
 
 ## Discover, Browse, and Enjoy Music
 
