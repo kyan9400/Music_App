@@ -1,4 +1,4 @@
-# Music_App
+# Musicax
 
 
 ## Discover, Browse, and Enjoy Music
